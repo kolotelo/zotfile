@@ -1,0 +1,24 @@
+<!ENTITY zotfile-attach-file.label "Adiciona novo arquivo">
+<!ENTITY zotfile-attach-file.tooltiptext "Move e anexa último aquivo na pasta definida pelo usuário do item selecionado no">
+<!ENTITY zotfile-manage-attachments.label "Gerencia anexos">
+<!ENTITY warning.label "Atenção">
+<!ENTITY renameSelectedAttachments.label "Renomeia e Move">
+<!ENTITY renameSelectedAttachments.tooltiptext "Move e renomeia anexos existentes do item selecionado no Zotero">
+<!ENTITY extract-annotations.label "Extrai anotações">
+<!ENTITY extract-annotations.tooltiptext "Extrai anotações e textos destacados do PDF.">
+<!ENTITY pdf-outline.label "Obtém índice">
+<!ENTITY pdf-outline.tooltiptext "Obtém índice do PDF.">
+<!ENTITY send-to-tablet "Envia ao Tablet">
+<!ENTITY send-attachment-file-to-tablet "Envia arquivo anexado ao Tablet.">
+<!ENTITY update-file-modification-time "Atualiza tempo de modificação do arquivo">
+<!ENTITY sync-attachment-file "Sincroniza arquivo anexado no Tablet com arquivo no Zotero.">
+<!ENTITY get-from-tablet "/obtém do Tablet">
+<!ENTITY get-attachment-file-from-tablet "Obtém arquivos anexados do Tablet">
+<!ENTITY send-to-subfolder-on-tablet "Envia para subpasta no Tablet">
+<!ENTITY change-subfolders "Altera subpastas...">
+<!ENTITY add-and-delete-subfolders "Inclui e apaga subpastas no Menu.">
+<!ENTITY zotfile-options.label "Preferências ZotFile...">
+<!ENTITY saved-search-all "Mostra anexos de todas as subpastas">
+<!ENTITY saved-search-restrict "Restringe pesquisa salva na subpasta">
+<!ENTITY restrict-subfolder "Restrige à subpasta...">
+<!ENTITY restrict-basefolder "Anexos não arquivados">

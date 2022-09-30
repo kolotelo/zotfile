@@ -1,0 +1,3 @@
+<!ENTITY label "Rótulo">
+<!ENTITY subfolder "Subpasta">
+<!ENTITY leave-empty "Deixe este campo vazio para gerar automaticamente a pasta a partir do rótulo.">
